@@ -13,10 +13,9 @@ buildNumber.properties
 # 自定义忽略的文件
 **/mvnw
 **/mvnw.cmd
-
 **/.mvn
 **/target/
 .idea
-
 **/.gitignore
+**/rebel.xml
 
